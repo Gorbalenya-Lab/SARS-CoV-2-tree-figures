@@ -1,2 +1,4 @@
 # SARS-CoV-2-tree-figures
-Source files for figures in doi: 10.1038/s41564-020-0695-z PMCID: PMC7095448 article
+
+This repository contains the source files for Figure 2B and Figure 2C of
+[Gorbalenya, A. E., et al. "The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2, Nat Microbiol (2020)."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095448/).
