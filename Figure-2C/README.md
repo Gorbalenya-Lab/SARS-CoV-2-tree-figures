@@ -9,9 +9,9 @@ one aminoacid MSA:
 
 * betacorona-5d-2013.fasta.treefile - IQ-tree output, see *.log for the options used;
 
-* betacorona-5d-2013.r.nwk - rooted by "midpoint root" algortihm;
+* betacorona-5d-2013.r.nwk - rooted, outgroup node NL63 was used;
 
-* betacorona-5d-2013.r.fixed.NL63.supp.nwk - fixed support value for NL63 node (outgroup node);
+* betacorona-5d-2013.r.fixed.NL63.supp.nwk - fixed support value for NL63 node;
 
 * betacorona-5d-2013.r.fixed.NL63.supp1.nwk, plot-2C-iq-tree.nwk - support values are scaled
 from [0;100] to [0;1], it's the final tree file.
