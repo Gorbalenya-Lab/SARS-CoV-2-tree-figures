@@ -1,4 +1,4 @@
-1. betacorona-5d-C4L1-2013-b1000-TEST-1 folder contains IQ-Tree run logs and the
+1. betacorona-5d-C4L1-2013-b1000-TEST-1 folder contains IQ-TREE run logs and the
 resulted tree files for the species of SARS-related betacoronavirus
 (cluster C4L1 in DEmARC classification):
 
@@ -8,7 +8,7 @@ genome-wide alignment of coronaviridae. The following selected columns of
 
     Domain list = nsp5A-3CLpro:2..226,nsp13-HEL1core:1..327,nsp12-RdRp:190..677,nsp12-NiRAN:125..396,nsp13-ZBD:12..89
 
-* betacorona-5d-C4L1-2013.fasta.treefile - IQ-tree output, see *.log
+* betacorona-5d-C4L1-2013.fasta.treefile - IQ-TREE output, see *.log
 for the options used;
 
 * betacorona-5d-C4L1-2013.r.nwk - rooted by "midpoint root" algortihm;

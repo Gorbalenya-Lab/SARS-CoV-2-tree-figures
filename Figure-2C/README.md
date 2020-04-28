@@ -1,4 +1,4 @@
-1. betacorona-5d-b1000-WAG-2 folder contains IQ-Tree run logs and the resulted tree files
+1. betacorona-5d-b1000-WAG-2 folder contains IQ-TREE run logs and the resulted tree files
 for genus Betacoronaviruses:
 
 * betacorona-5d-2013.fasta - source alignment, it's exported from the genome-wide alignment
@@ -7,7 +7,7 @@ one aminoacid MSA:
 
     Domain list = nsp5A-3CLpro:2..226,nsp13-HEL1core:1..327,nsp12-RdRp:190..677,nsp12-NiRAN:125..396,nsp13-ZBD:12..89
 
-* betacorona-5d-2013.fasta.treefile - IQ-tree output, see *.log for the options used;
+* betacorona-5d-2013.fasta.treefile - IQ-TREE output, see *.log for the options used;
 
 * betacorona-5d-2013.r.nwk - rooted, outgroup node NL63 was used;
 
